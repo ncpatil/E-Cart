@@ -34,6 +34,9 @@ E-Cart/
 │── package.json
 │── README.md
 
+Copy code
+
+
 ---
 
 ⚙️ Installation & Setup
