@@ -19,20 +19,20 @@
 ---
 
 📁 Folder Structure
+
 E-Cart/
 │── public/
 │── src/
-│   ├── components/
-│   │   ├── ProductList.jsx
-│   │   ├── ProductCard.jsx
-│   │   ├── Cart.jsx
-│   ├── data/
-│   │   ├── products.js
-│   ├── App.jsx
-│   ├── index.js
+│ ├── components/
+│ │ ├── ProductList.jsx
+│ │ ├── ProductCard.jsx
+│ │ ├── Cart.jsx
+│ ├── data/
+│ │ ├── products.js
+│ ├── App.jsx
+│ ├── index.js
 │── package.json
 │── README.md
-
 
 ---
 
