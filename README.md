@@ -18,27 +18,6 @@
 
 ---
 
-📁 Folder Structure
-
-E-Cart/
-│── public/
-│── src/
-│ ├── components/
-│ │ ├── ProductList.jsx
-│ │ ├── ProductCard.jsx
-│ │ ├── Cart.jsx
-│ ├── data/
-│ │ ├── products.js
-│ ├── App.jsx
-│ ├── index.js
-│── package.json
-│── README.md
-
-Copy code
-
-
----
-
 ⚙️ Installation & Setup
 **Clone the repository**
 git clone https://github.com/your-username/e-cart-app.git
