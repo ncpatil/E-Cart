@@ -16,6 +16,8 @@
 - **Tools**: Vite / Create React App
 - **Version Control**: Git & GitHub
 
+---
+
 📁 Folder Structure
 E-Cart/
 │── public/
